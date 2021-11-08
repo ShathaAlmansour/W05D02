@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Shatha", "isFavo": "false", "isDelete": "false" },
+  { "id": 2, "name": "Shahad", "isFavo": "false", "isDelete": "false" },
+  { "id": 3, "name": "Aseel", "isFavo": "false", "isDelete": "false" }
+]
